@@ -20,6 +20,6 @@ public class ReverseInteger {
             }
             reversed = reversed * 10 + pop;
         }
-        return reversed;
+        System.out.println(reversed);
     }
 }
