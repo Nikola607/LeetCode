@@ -12,7 +12,6 @@ public class RomanToInteger {
 
     private static int romanToInt(String s){
 //       * Dumb Solution *
-
 //        int number = 0;
 //        char lastSymbol = 0;
 //
