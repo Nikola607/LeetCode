@@ -25,5 +25,6 @@ public class SortColors {
         }
         Arrays.stream(nums)
                 .forEach(num -> System.out.print(num + " "));
+
     }
 }
